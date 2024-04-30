@@ -1,3 +1,10 @@
+/**
+ * @file deque.cpp
+ * @brief Implements the member functions of the Deque class
+ * @authors V-Types
+ * @date 04/26/2024
+ */
+
 #include <iostream>
 #include "deque.h"
 
