@@ -1,3 +1,10 @@
+/**
+ * @file deque.h
+ * @brief Defines the Deque class
+ * @authors V-Types
+ * @date 04/26/2024
+ */
+
 #ifndef DEQUE_H
 #define DEQUE_H
 
