@@ -3,20 +3,32 @@ This project implements a deque container in C++ using a dynamic array of arrays
 
 # How To Start
 Step 1. Make
+
 Step 2. ./deque
+
 Step 3. Look at the code, as I am unsure if you're even meant to see what it does?
 
 # Deque Functionality
 Constructor: Initializes an empty deque.
+
 Destructor: Deletes both dimensions of the deque.
+
 push_front(value): Adds an element to the front of the deque.
+
 pop_front(): Removes an element from the front of the deque.
+
 push_back(value): Adds an element to the back of the deque.
+
 pop_back(): Removes an element from the back of the deque.
+
 front(): Returns a copy of the first element.
+
 back(): Returns a copy of the last element.
+
 empty(): Returns true if the deque is empty, false otherwise.
+
 size(): Returns the number of elements in the deque.
+
 operator: Provides array-like access to elements.
 
 # Difficulties
