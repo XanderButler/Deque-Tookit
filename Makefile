@@ -2,7 +2,7 @@ CC = g++
 
 CFLAGS = -g -Wall -Wextra -c
 
-TARGET = deque_test
+TARGET = deque
 
 all: $(TARGET)
 
