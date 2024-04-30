@@ -1,3 +1,10 @@
+/**
+ * @file main.cpp
+ * @brief The main file for the Deque Toolkit
+ * @authors V-Types
+ * @date 04/26/2024
+ */
+
 #include <iostream>
 #include "deque.h"
 
